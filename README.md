@@ -1,3 +1,12 @@
-# Kokoa Clone 2023 HTML/CSS
+# Kokoa Clone 2023 
 
-[ezgif com-video-to-gif](https://github.com/chohyeonkim/kokoa--HTML-CSS/assets/104462860/67625103-391b-4015-b70a-d10841ff41fc)
+## HTML / CSS
+
+
+
+
+
+
+![ezgif com-video-to-gif](https://github.com/chohyeonkim/kokoa--HTML-CSS/assets/104462860/032e6827-4110-42d2-94d9-c575a9bf944a)
+
+
