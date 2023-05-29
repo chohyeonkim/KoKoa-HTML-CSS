@@ -1,4 +1,4 @@
-# Kokoa Clone 2023 
+# Kokoa 2023 
 
 ## HTML / CSS
 
